@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/come-up-account-website/static/css/main.dad09f8d.css",
+    "main.js": "/come-up-account-website/static/js/main.52064693.js",
+    "index.html": "/come-up-account-website/index.html",
+    "main.dad09f8d.css.map": "/come-up-account-website/static/css/main.dad09f8d.css.map",
+    "main.52064693.js.map": "/come-up-account-website/static/js/main.52064693.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dad09f8d.css",
+    "static/js/main.52064693.js"
+  ]
+}
